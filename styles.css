@@ -1,0 +1,12 @@
+.banner{
+  background-image: url(image/bgimage.jpg);
+  background-size: cover;
+  padding: 250px;
+  background-repeat: no-repeat;
+}
+@media (max-width: 576px) {
+  .banner h1 {
+      font-size: 24px; 
+  }
+
+}
